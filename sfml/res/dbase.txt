@@ -1,0 +1,3 @@
+80000 PratikLama 1234 
+66667 PratikShrestha 5678 
+90000 PratikTharu 9012 
